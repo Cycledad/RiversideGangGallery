@@ -1,2 +1,4 @@
 git config --global init.defaultBranch main
 git push --set-upstream origin master
+
+https://www.youtube.com/watch?v=e5AwNU3Y2es
