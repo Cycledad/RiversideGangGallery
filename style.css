@@ -1,6 +1,10 @@
 .gallery{
+    margin-top: 30vh;
     display: flex;
     flex-wrap: wrap;
+     
+ 
+
 }
 
 .gallery img{
@@ -9,11 +13,27 @@
     border-width: .05px;
     width: 30vw;
     height: auto;
+    
 }
 
 h1{
-    font-size: 10vh;
-    font-size: 10vh;
+    font-size: 5vh;
 }
 
+
+.banner{
+    overflow: hidden;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    /*background: #333;*/
+    background-color: white;
+   
+}
+
+.banner marquee{
+    font-size: large;
+}
+ 
 
